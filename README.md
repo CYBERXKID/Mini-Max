@@ -5,18 +5,18 @@
   
 #  ◍ 𝙼𝙸𝙽𝙸 𝙼𝙰𝚇 𝙼𝙳  ◍ 
 <div align="center">
-𝙼𝙸𝙽𝙸 𝙼𝙰𝚇 is simple Multi divece whatsapp bot in 𝚂𝙰 Made By 𝙲𝚈𝙱𝙴𝚁𝚇𝙺𝙸𝙳 Base is cheems bot Special Thanks Fro All helpers
+𝙼𝙸𝙽𝙸 𝙼𝙰𝚇 𝙸𝚂 𝙰 𝚂𝙸𝙼𝙿𝙻𝙴 𝙼𝚄𝙻𝚃𝙸𝙿𝙻𝙴 𝙳𝙴𝚅𝙸𝙲𝙴 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙱𝙾𝚃 𝙸𝙽 𝚂𝙰 𝙼𝙰𝙳𝙴 𝙱𝚈 𝙲𝚈𝙱𝙴𝚁𝚇𝙺𝙸𝙳 𝙱𝙰𝚂𝙴 𝙸𝚂 𝙲𝙷𝙴𝙴𝚂𝙼𝚂 𝙱𝙾𝚃 𝚂𝙿𝙴𝙲𝙸𝙰𝙻 𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝙰𝙻𝙻 𝙷𝙴𝙻𝙿𝙴𝚁𝚂
   
- [@SlRealtech]() | [@darkAlpha]() | [@sanuwa]() | [@isuru]() 
+ [@𝙲𝚈𝙱𝙴𝚁𝚇𝙺𝙸𝙳]() | [@𝙳𝙰𝚁𝙺𝙰𝙻𝙿𝙷]() | [@𝚃𝚂𝙷𝙴𝙿𝙷𝙰𝙽𝙳]() | [@𝙸𝚂𝚄𝚁𝚄]() 
 
 <div align="left">
 
-#### ```How To deploy ```
-1. Fork This repo
-2. Scan Qr Code 
-3. Make Heroku deploy link your own 
-4. Add app name and deploy 
-5. Watch your heroku log 
+#### ```𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈 ```
+1. 𝙵𝙾𝚁𝙺 𝚃𝙷𝙸𝚂 𝚁𝙴𝙿𝙾
+2. 𝚂𝙲𝙰𝙽 𝚀𝚁 𝙲𝙾𝙳𝙴
+3. 𝙼𝙰𝙺𝙴 𝙷𝙴𝚁𝙾𝙺𝚄 𝙳𝙴𝙿𝙻𝙾𝚈 𝙻𝙸𝙽𝙺 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽
+4. 𝙰𝙳𝙳 𝙰𝙿𝙿 𝙽𝙰𝙼𝙴 𝙰𝙽𝙳 𝙳𝙴𝙿𝙻𝙾𝚈 
+5. 𝚆𝙰𝚃𝙲𝙷 𝚈𝙾𝚄𝚁 𝙷𝙴𝚁𝙾𝙺𝚄 𝙻𝙾𝙶
 
 ##### [ᴡᴀᴛᴄʜ ᴠɪᴅᴇᴏ ʜᴏᴡ ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ](https://youtu.be/wXovNeqOHSo)
 
