@@ -25,9 +25,9 @@
   <img src="https://telegra.ph/file/30f0019baa0dc2715c62d.jpg" width="180" height="100ll">
   
 # 
-### FORK QUEEN ELISA REPO
+### 𝙵𝙾𝚁𝙺 𝙼𝙸𝙽𝙸 𝙼𝙰𝚇 𝚁𝙴𝙿𝙾
  <p align="left">
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-MD/fork"><img align="center" src="https://i.imgur.com/t1fC4oE.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
+<a href="https://github.com/CYBERXKID/Mini-Max/fork"><img align="center" src="https://i.imgur.com/t1fC4oE.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
 
 ### SCAN QR CODE 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@mrnimaofc/Queen-Elisa-MD?v=1?outputonly=1&lite=1#index.js)
