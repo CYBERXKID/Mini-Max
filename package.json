@@ -1,5 +1,5 @@
 {
-  "name": "Queen-Elisa",
+  "name": "MINI MAX",
   "version": "1.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -11,14 +11,14 @@
     "termux",
     "whatsapp",
     "2022",
-    "QueenElisa",
+    "MINI MAX",
     "base",
     "baileys-md",
     "bot",
     "bot-md",
     "multi-device"
   ],
-  "author": "DARKMAKER(mrnima)",
+  "author": "CYBERXKID(diego)",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -66,10 +66,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkMakerofc/Queen-Elisa-MD.git"
+    "url": "git+https://github.com/CYBERXKID/Mini-Max.git"
   },
   "bugs": {
-    "url": "https://github.com/DarkMakerofc/Queen-Elisa-MD/issues"
+    "url": "https://github.com/CYBERXKID/Mini-Max/issues"
   },
-  "homepage": "https://github.com/DarkMakerofc/Queen-Elisa-MD#readme"
+  "homepage": "https://github.com/CYBERXKID/Mini-Max#readme"
 }
