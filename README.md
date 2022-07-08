@@ -26,6 +26,10 @@
 ### 𝚂𝙲𝙰𝙽 𝚀𝚁 𝙲𝙾𝙳𝙴 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Cyberm/MINI-MAX-MD-QR-CODE?v=1?outputonly=1&lite=1#index.js)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Mini-Max)
+
+
+
 + [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/KYvD0uan1KKLUSTtMHV9vi) 
 + [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/94715166712?text=From_Queen_Elisa_Md_Repo💃)
 
