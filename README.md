@@ -21,7 +21,7 @@
 # 
 ### 𝙵𝙾𝚁𝙺 𝙼𝙸𝙽𝙸 𝙼𝙰𝚇 𝚁𝙴𝙿𝙾
  <p align="left">
-<a href="https://github.com/CYBERXKID/Mini-Max/fork"><img align="center" src="https://i.imgur.com/t1fC4oE.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
+<a href="https://github.com/CYBERXKID/Mini-Max/fork"><img align=alt="Fork and deploy" height="35" width="150" /></a>
 
 ### 𝚂𝙲𝙰𝙽 𝚀𝚁 𝙲𝙾𝙳𝙴 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Cyberm/MINI-MAX-MD-QR-CODE?v=1?outputonly=1&lite=1#index.js)
